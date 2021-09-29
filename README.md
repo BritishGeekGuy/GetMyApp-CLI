@@ -1,2 +1,2 @@
-# WinPac-CLI
-Command Line Package Manager for Windows (Similar to WinGet)
+# WinPac Website
+Website for WinPac
