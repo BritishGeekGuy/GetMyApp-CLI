@@ -1,2 +1,2 @@
-# WinPac Website
-Website for WinPac
+# GMA-CLI Website
+Website for GetMyApp-CLI
