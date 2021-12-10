@@ -1,2 +1,3 @@
-# WinPac-CLI
-Command Line Package Manager for Windows (Similar to WinGet)
+# GetMyApp
+Command Line Package Manager for Windows/Linux
+Aiming to let developers have more choice.
